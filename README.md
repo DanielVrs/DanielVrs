@@ -1,16 +1,21 @@
-## Ola! Eu sou Daniel Verissimo
+<h1> Olá!! Eu sou Daniel Verissimo 🤓 </h1>
 
-# 💫 About Me:
+<h3>💫 About Me:</h3>
+<br>
+lorem ipsum dolor sit amet, consectetuer adipiscing
 
-lorem ipsum
+##
 
-## 🌐 Socials:
+<h3>🌐 Socials:</h3>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-verissimo-b4839a1a3/)
 
-# 💻 Tech Stack:
+##
 
-<div style="display: inline_block">
+<h3>💻 Tech Stack:</h3>
+
+<div style="display: inline_flex">
 <br>
   <img align="center" alt="HTML5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -30,7 +35,8 @@ lorem ipsum
 
 ##
 
-# 📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=DanielVrs&theme=highcontrast&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVrs&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
