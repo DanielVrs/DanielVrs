@@ -25,5 +25,5 @@ lorem ipsum
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DanielVrs&theme=highcontrast&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVrs&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielVrs&show_icons=true&theme=merko&count_private=true)
+![Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVrs&show_icons=true&theme=merko&count_private=true)
