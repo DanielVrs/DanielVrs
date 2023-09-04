@@ -38,7 +38,7 @@
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
-  <a href="https://www.linkedin.com/in/guilhermeprevedamilek" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/daniel-verissimo-b4839a1a3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   
