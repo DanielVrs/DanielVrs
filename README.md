@@ -35,9 +35,13 @@ lorem ipsum dolor sit amet, consectetuer adipiscing
 
 ##
 
-<h3>📊 GitHub Stats:</h3>
-<br>
-
+<h3>
+  <picture>
+    <source type="image/webp" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" />
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" />
+  </picture>
+  Minhas estatísticas
+</h3>
 <table>
   <tr>
     <td width="55%" align="center">
