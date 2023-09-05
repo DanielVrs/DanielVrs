@@ -6,19 +6,14 @@
   </picture>
 
   <h1>
-    Olá
-    <picture>
-      <source type="image/webp" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" />
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" />
-    </picture>,
-    eu sou <code>&lt;Daniel Verissimo /&gt</code>!
+    Olá! ✌️🤓 eu sou <code>&lt;Daniel Verissimo /&gt</code>
   </h1>
   <p>
     <strong>
       Desenvolvedor Front end - HTML5 | CSS3 | JavaScript | TypeScript | Node.js | React.js |  Sass |
     </strong>
   </p>
-
+  
   <div style="display: inline_flex">
     <br>
     <img align="center" alt="HTML5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -38,6 +33,10 @@
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 
+
+
+
+ <h2> Redes sociais </h2>
   <a href="https://www.linkedin.com/in/daniel-verissimo-b4839a1a3/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
