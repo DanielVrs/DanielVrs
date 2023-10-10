@@ -45,38 +45,7 @@
 
 <hr />
 
-<!-- ===== STATISTICS ===== -->
-<h3>
-  <picture>
-    <source type="image/webp" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" />
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" />
-  </picture>
-  Minhas estatísticas
-</h3>
 
-<table align="center">
-  <tr>
-    <td width="55%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DanielVrs&theme=algolia&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=DanielVrs&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
-      </picture>
-      <br></br>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=DanielVrs&theme=algolia&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielVrs&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<hr />
 
 <!-- ===== FOOTER ===== -->
 <span>
