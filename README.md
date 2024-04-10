@@ -6,7 +6,7 @@
   </picture>
 
   <h1>
-    Olá! ✌️🤓 eu sou <code>&lt;Daniel Verissimo /&gt</code>
+    Olá! ✌️🤓 eu sou <code>&lt; Daniel Verissimo /&gt</code>
   </h1>
   <p>
     <strong>
@@ -25,6 +25,7 @@
     <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="sqldeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
 
   </div>
 
