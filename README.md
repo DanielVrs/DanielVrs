@@ -10,7 +10,7 @@
   </h1>
   <p>
     <strong>
-      Desenvolvedor Front end - HTML5 | CSS3 | JavaScript | TypeScript | Node.js | React.js |  Sass |
+      Desenvolvedor Front end - HTML5 | CSS3 | JavaScript | TypeScript | Node.js | React.js |  Sass | SQL | Express.JS | PostgressSQL | ORM | Prisma | TypeORM | Python | Django |
     </strong>
   </p>
   
