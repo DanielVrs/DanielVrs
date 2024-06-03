@@ -63,12 +63,12 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielVrs&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
       </picture>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
       </picture>
-    </td>
+    </td> -->
   </tr>
 </table>
 
