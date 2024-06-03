@@ -65,8 +65,8 @@
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&count_private=true" />
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br&count_private=true" alt="" align="center" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&locale=pt-br&count_private=true&langs_count=2" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=DanielVrs&bg_color=ffffff00&hide_border=true&no-frame=true&locale=pt-br&count_private=true&langs_count=6" alt="" align="center" width="100%"/>
       </picture>
     </td>
   </tr>
